@@ -1,9 +1,9 @@
-cff-version: 1.1.0
+cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: Francisco
-  given-names: Hernandez Alejandre
-orcid: https://orcid.org/0009-0003-3912-9960
-title:
-version: v1.0.0
+  - family-names: Hernandez Alejandre
+    given-names: Francisco
+    orcid: https://orcid.org/0009-0003-3912-9960
+title: "Transverse Spreading"
+version: 1.0.0
 date-released: 2026-09-29
